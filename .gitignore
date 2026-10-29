@@ -1,0 +1,14 @@
+# Build output
+.gradle/
+build/
+app/build/
+dist/
+local.properties
+# Signing: never commit
+keystore/
+keystore.properties
+# IDE and OS
+.idea/
+*.iml
+.DS_Store
+.kotlin/

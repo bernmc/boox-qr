@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Boox QR</string>
+    <string name="status_point">Point the camera at a QR code</string>
+    <string name="status_permission">Camera permission needed. Tap to allow.</string>
+    <string name="torch_on">Torch on</string>
+    <string name="torch_off">Torch off</string>
+    <string name="close_app">Close QR reader</string>
+    <string name="pick_image">From image</string>
+    <string name="open">Open</string>
+    <string name="copy">Copy</string>
+    <string name="share">Share</string>
+    <string name="rescan">Scan again</string>
+    <string name="copied">Copied</string>
+    <string name="no_code_in_image">No code found in that image</string>
+    <string name="cannot_open">No app can open this</string>
+    <string name="kind_url">Web link</string>
+    <string name="kind_text">Text</string>
+    <string name="kind_wifi">Wi-Fi network</string>
+    <string name="kind_email">Email</string>
+    <string name="kind_phone">Phone</string>
+    <string name="kind_geo">Location</string>
+    <string name="kind_sms">SMS</string>
+    <string name="kind_contact">Contact</string>
+    <string name="kind_barcode">Barcode (%1$s)</string>
+    <string name="wifi_network">Network: %1$s</string>
+    <string name="wifi_password">Password: %1$s</string>
+</resources>
